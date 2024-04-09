@@ -1,5 +1,5 @@
-### Hi there 👋
-<!-- ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)-->
+### Hi I'm Samir López!
+
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
