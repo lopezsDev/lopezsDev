@@ -1,5 +1,10 @@
 ### Hi I'm Samir López!
-<a href='https://postimg.cc/3yFwgtRG' target='_blank'><img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' border='0' alt='samirDev'/></a>
+<a href='https://postimg.cc/3yFwgtRG' target='_blank'>
+  <div style='text-align: center; width: 60%; padding-top: 56.25%; position: relative;'>
+    <img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' border='0' alt='samirDev'/>
+  </div>
+</a>
+
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
