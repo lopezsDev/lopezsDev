@@ -5,9 +5,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em><b>"Calm seas never made a skilled sailor."</b></em>"
-      <span align="center">"Calm seas never made a skilled sailor."</span>
-    </h4>
+<h4 align="center"><em><b>"Calm seas never made a skilled sailor."</b></em></h4>
 </span>
 
 <!-- ABOUT YOU -->
