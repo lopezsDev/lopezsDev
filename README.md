@@ -1,5 +1,5 @@
 ### Hi I'm Samir López!
-![Welcome to my profile][url=https://ibb.co/pXk3hj0][img]https://i.ibb.co/YjVt0BR/Lopez-S7-dev.png[/img][/url]</a>
+<a href='https://postimg.cc/kBZjNyMH' target='_blank'><img src='https://i.postimg.cc/cL1VSDpd/Lopez-S7-dev.png' border='0' alt='Lopez-S7-dev'/></a>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
