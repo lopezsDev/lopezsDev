@@ -50,11 +50,8 @@
 <!-- SUPPORT -->
 <hr>
   <h3 align="center">Support:</h3>
-<p>
-  <a href="mailto:lopezs.dev@gmail.com">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-  </a>
-</p>
+<a href="mailto:lopezs.dev@gmail.com" style="display: inline-block; background-color: #ff0000; color: #ffffff; font-size: 12px; padding: 5px 10px; text-decoration: none; border-radius: 5px; text-align: center;">Hire Me</a>
+
 </p>
    
 <!-- GITHUB STATS -->
@@ -70,14 +67,4 @@
 </p>
 </div>
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
