@@ -1,5 +1,5 @@
 ### Hi I'm Samir López!
-<a href='https://postimg.cc/kBZjNyMH' target='_blank'><img src='https://i.postimg.cc/cL1VSDpd/Lopez-S7-dev.png' border='0' alt='Lopez-S7-dev'/></a>
+<a href='https://postimg.cc/3yFwgtRG' target='_blank'><img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' border='0' alt='samirDev'/></a>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
