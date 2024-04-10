@@ -1,5 +1,4 @@
-### Hi I'm Samir López! [![samirDev.png](https://i.postimg.cc/TPZWvSvt/samirDev.png)](https://postimg.cc/3yFwgtRG)
-
+### Hi I'm Samir López! 
 <p align="center">
   <a href='https://postimg.cc/3yFwgtRG' target='_blank'>
     <img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' alt='samirDev' width='400' height='400'/>
