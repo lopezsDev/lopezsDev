@@ -1,6 +1,6 @@
 ### Hi I'm Samir López! 
 <p align="center">
-  <a href='https://postimg.cc/3yFwgtRG' target='_blank'>
+  <a href='https://www.linkedin.com/in/samir-l%C3%B3pez-906437268' target='_blank'>
     <img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' alt='samirDev' width='400' height='400'/>
   </a>
 </p>
