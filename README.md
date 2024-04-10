@@ -6,7 +6,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em><b>"Calm seas never made a skilled sailor."</b></em>"
-      <span align="center">****</span>
+      <span align="center">"Calm seas never made a skilled sailor."</span>
     </h4>
 </span>
 
