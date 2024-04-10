@@ -56,14 +56,7 @@
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-         
-  <a align="right"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
-  </p>
-</p>
+
 </div>
 <hr>
 <br>
