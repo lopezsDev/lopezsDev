@@ -55,6 +55,7 @@
    
 <!-- GITHUB STATS -->
 <hr>
+  <h3 align="center">Stats:</h3>
 <div style="display: block;">
 
 </div>
