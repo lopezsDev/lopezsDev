@@ -50,7 +50,8 @@
 <!-- SUPPORT -->
 <hr>
   <h3 align="center">Support:</h3>
-<a href="mailto:lopezs.dev@gmail.com" style="display: inline-block; background-color: #ff0000; color: #ffffff; font-size: 12px; padding: 5px 10px; text-decoration: none; border-radius: 5px; text-align: center;">Hire Me</a>
+<a href="mailto:lopezs.dev@gmail.com" style="display: inline-block; background-color: #ff0000; color: #ffffff; font-size: 12px; padding: 5px 10px; text-decoration: none; border-radius: 5px; text-align: center; width: 15px; height: 20px; line-height: 20px;">Hire Me</a>
+Me</a>
 
 </p>
    
