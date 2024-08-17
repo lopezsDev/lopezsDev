@@ -48,9 +48,20 @@
        
 <!-- SUPPORT -->
 <hr>
-  <h3 align="center">Support:</h3>
-  
-<a href="mailto:lopezs.dev@gmail.com" style="display: inline-block; background-color: #ff0000; color: #ffffff; font-size: 12px; padding: 5px 10px; text-decoration: none; border-radius: 5px; text-align: center;">Hire Me</a>
-</div>
+<h3 align="center">Support:</h3>
+
+<!-- Botón para enviar un correo a través de Gmail -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lopezs.dev@gmail.com&su=I%20am%20interested%20in%20hiring%20you&body=Hello%20Samir,%20I%20would%20like%20to%20discuss%20a%20potential%20job%20opportunity%20with%20you." 
+   style="display: inline-block; 
+          background-color: #ff0000; 
+          color: #ffffff; 
+          font-size: 12px; 
+          padding: 5px 10px; 
+          text-decoration: none; 
+          border-radius: 5px; 
+          text-align: center;">
+    Hire Me
+</a>
 <hr>
+
 <br>
