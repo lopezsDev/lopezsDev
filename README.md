@@ -51,12 +51,6 @@
   <h3 align="center">Support:</h3>
   
 <a href="mailto:lopezs.dev@gmail.com" style="display: inline-block; background-color: #ff0000; color: #ffffff; font-size: 12px; padding: 5px 10px; text-decoration: none; border-radius: 5px; text-align: center;">Hire Me</a>
-   
-<!-- GITHUB STATS -->
-<hr>
-  <h3 align="center">Stats:</h3>
-<div style="display: block;">
-
 </div>
 <hr>
 <br>
