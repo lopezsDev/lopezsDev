@@ -1,16 +1,5 @@
-### Hi I'm Samir López! 
-<p align="center">
-  <a href='https://www.linkedin.com/in/samir-l%C3%B3pez-906437268' target='_blank'>
-    <img src='https://i.postimg.cc/TPZWvSvt/samirDev.png' alt='samirDev' width='400' height='400'/>
-  </a>
-</p>
-
+### Hi👋 welcome! 
 <hr>
-<!-- MAIN PHRASE SECTION -->
-<span align="center">
-  <span>
-<h4 align="center"><em><b>"Calm seas never made a skilled sailor."</b></em></h4>
-</span>
 
 <!-- ABOUT YOU -->
 <hr>
