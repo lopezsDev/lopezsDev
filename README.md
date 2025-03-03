@@ -32,14 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lopezsDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lopezsDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezsDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=lopezsDev&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lopezsDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lopezsDev&theme=dark&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezsDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
